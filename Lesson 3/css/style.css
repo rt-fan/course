@@ -1,0 +1,19 @@
+p {
+    color: white;
+    background-color: blue;
+}
+
+div {
+    font-size: 30pt;
+    color: red;
+}
+
+.two {
+    font-size: 40pt;
+    background-color: green;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
